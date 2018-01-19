@@ -1,0 +1,11 @@
+Quando o jogo iniciar tem q apertar espaço para entrar no menu principal.
+
+No menu principal use as setas para cima e para baixo para navegar nele e espaço para entrar na opção selecionada, caso o jogador entre el algum submenu só é apertar espaço novamente para voltar.
+
+No jogo use as setas da direita e esquerda para mover a nave e espaço para atirar, caso a sua bala colida com a do inimigo elas são destruídas e você ganha 5 pontos, caso você mate um inimigo ganha 10 pontos, o jogo não da a possibilidade de recuperar suas vidas então cuide bem delas.
+
+Nas opções tem como mudara velocidade do jogo.
+
+
+
+Para jogar é necessário tem o SDL2, SDL_ttf, SDL_image e o SDL_mixer instalado na sua IDE, caso não tenha, execute o ShootongGame.exe para rodar o jogo normalmente.
