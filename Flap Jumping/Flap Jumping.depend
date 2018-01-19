@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1497498979 source:c:\1.0 folthers\fatec\programação\amiguinhogames\flap jumping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1497565514 source:c:\1.0 folthers\fatec\programação ii\4.0 amiguinhogames\flap jumping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+

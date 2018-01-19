@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1497633991 source:c:\1.0 folthers\fatec\programação\amiguinhogames\pongalone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1497638260 source:c:\1.0 folthers\fatec\programação ii\4.0 amiguinhogames\pongalone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+

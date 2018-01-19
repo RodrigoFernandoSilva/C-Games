@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1497760020 source:c:\1.0 folthers\fatec\programação\amiguinhogames\cubedown\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<time.h>
+	<string.h>
+
+1497808723 source:c:\1.0 folthers\fatec\programação ii\4.0 amiguinhogames\cubedown\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<time.h>
+	<string.h>
+

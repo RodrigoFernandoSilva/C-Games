@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1497502237 source:c:\1.0 folthers\fatec\programação\amiguinhogames\racing top car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1516382740 source:c:\1.0 folthers\fatec\programação ii\4.0 amiguinhogames\racing top car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
