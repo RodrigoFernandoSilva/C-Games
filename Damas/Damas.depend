@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1498579543 source:c:\1.0 folthers\fatec\programação\amiguinhogames\damas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1516382298 source:c:\1.0 folthers\fatec\programação ii\4.0 amiguinhogames\damas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
