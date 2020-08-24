@@ -1,2 +1,2 @@
-# Jogos feitos em C
+# Damas
 Jogo não finalizado.
