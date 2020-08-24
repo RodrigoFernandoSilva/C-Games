@@ -17,6 +17,6 @@ C
 SDL
 
 ## Imagens
-![ShootongGame-Menu]()
-![ShootongGame-MainMenu]()
-![ShootongGame-Play]()
+![ShootongGame-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/ShootongGameV0.6/Prints/ShootongGame-Menu.PNG)
+![ShootongGame-MainMenu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/ShootongGameV0.6/Prints/ShootongGame-MainMenu.PNG)
+![ShootongGame-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/ShootongGameV0.6/Prints/ShootongGame-Play.png)
