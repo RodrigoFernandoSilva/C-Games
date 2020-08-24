@@ -8,7 +8,8 @@ CubeDown é um jogo inspirado no tetris, porém com o diferencial de que ao inve
 
 ## Gênero
 * Casual;
-* Puzzle.
+* Puzzle;
+* 2D.
 
 ## Linguagem
 C
