@@ -17,5 +17,5 @@ C
 SDL
 
 ## Imagens
-![Running-Menu]()
-![Running-Play]()
+![Running-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Running/Prints/Running-Menu.PNG)
+![Running-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Running/Prints/Running-Play.png)
