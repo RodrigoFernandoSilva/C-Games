@@ -16,5 +16,5 @@ C
 SDL
 
 ## Imagens
-![Flap Jumping-Menu]()
-![Flap Jumping-Play]()
+![Flap Jumping-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Flap%20Jumping/Prints/Flap%20Jumping-Menu.PNG)
+![Flap Jumping-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Flap%20Jumping/Prints/Flap%20Jumping-Play.png)
