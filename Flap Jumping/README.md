@@ -15,6 +15,12 @@ C
 ## Biblioteca
 SDL
 
+## Desenvolvido com
+* [Code::Blocks](http://www.codeblocks.org/)
+
+## Download
+[Jogo](http://www.mediafire.com/file/1kppk8wy0zpul0p/Flap+Jumping.zip/file)
+
 ## Imagens
 ![Flap Jumping-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Flap%20Jumping/Prints/Flap%20Jumping-Menu.PNG)
 ![Flap Jumping-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Flap%20Jumping/Prints/Flap%20Jumping-Play.png)
