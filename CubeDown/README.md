@@ -22,7 +22,7 @@ SDL
 * [Inkscape](https://inkscape.org/pt-br/)
 
 ## Download
-(Jogo)[http://www.mediafire.com/file/7gkij4snvvnezki/CubeDown.zip/file]
+[Jogo](http://www.mediafire.com/file/7gkij4snvvnezki/CubeDown.zip/file)
 
 ## Imagens
 ![CubeDown-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/CubeDown/Prints/CubeDown-Menu.PNG)
