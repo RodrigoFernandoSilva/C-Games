@@ -4,7 +4,7 @@ CubeDown é um jogo inspirado no tetris, porém com o diferencial de que ao inve
   
 ## Funcionalidades
 * Juntou 4 cores iguais elas se quebram;
-* Salva a maior pontuação;
+* Salva a maior pontuação.
 
 ## Gênero
 * Casual;
