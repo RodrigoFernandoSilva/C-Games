@@ -3,7 +3,7 @@
 Flap Jumping é um jogo ispirado no FlappyBird, entretando não se tem uma fisica muito parecida.
   
 ## Funcionalidades
-* Salva a maior pontuação;
+* Salva a maior pontuação.
 
 ## Gênero
 * Casual;
