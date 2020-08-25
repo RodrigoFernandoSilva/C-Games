@@ -16,6 +16,13 @@ C
 ## Biblioteca
 SDL
 
+## Desenvolvido com
+* [Code::Blocks](http://www.codeblocks.org/)
+* [Inkscape](https://inkscape.org/pt-br/)
+
+## Download
+[Jogo](http://www.mediafire.com/file/n9m3v34ja90mvub/Running.zip/file)
+
 ## Imagens
 ![Running-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Running/Prints/Running-Menu.PNG)
 ![Running-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/Running/Prints/Running-Play.png)
