@@ -17,6 +17,13 @@ C
 ## Biblioteca
 SDL
 
+## Desenvolvido com
+* [Code::Blocks](http://www.codeblocks.org/)
+* [Inkscape](https://inkscape.org/pt-br/)
+
+## Download
+(Jogo)[http://www.mediafire.com/file/7gkij4snvvnezki/CubeDown.zip/file]
+
 ## Imagens
 ![CubeDown-Menu](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/CubeDown/Prints/CubeDown-Menu.PNG)
 ![CubeDown-Play](https://github.com/RodrigoFernandoSilva/C-Games/blob/master/CubeDown/Prints/CubeDown-Play.PNG)
