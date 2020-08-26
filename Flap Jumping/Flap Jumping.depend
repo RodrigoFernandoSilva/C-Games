@@ -17,3 +17,12 @@
 	<SDL_mixer.h>
 	<time.h>
 
+1598278472 source:c:\projects\github\c-games\flap jumping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+

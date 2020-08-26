@@ -17,3 +17,12 @@
 	<SDL_ttf.h>
 	<SDL_mixer.h>
 
+1598278473 source:c:\projects\github\c-games\racing top car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
